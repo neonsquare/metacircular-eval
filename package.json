@@ -4,7 +4,7 @@
   "description": "Implement eval without eval",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node tests"
   },
   "author": "Jochen H. Schmidt",
   "license": "MIT",
